@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SexTok - Watch Free Live Adult Videos</title>
+    <meta name="description" content="SexTok offers a collection of trending adult videos. Watch live, explore new content, and connect instantly. Must be 18+ to enter.">
+  <meta name="keywords" content="live adult videos, adult streaming, 18+, SexTok, NSFW, free adult content, adult entertainment, teen, teen videos, trending adult videos, live streaming, adult community, adult social media, adult video platform, watch adult videos, live cam, adult content, explicit videos, uncensored videos, adult entertainment platform, watch for free, sex, sex videos, adult clips, adult live stream, adult video sharing, adult video community, adult video app, adult video website, adult video network, adult video platform, adult video service, adult video content, adult video entertainment, adult video streaming service, tiktok, tiktok for adults, adult tiktok, adult social network, adult social media platform, adult video sharing platform, adult video sharing site, adult video sharing app, adult video sharing community, adult video sharing network, adult video sharing service">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://sextok.live/">
+    <link rel="stylesheet" href="styles.css">
+	<link rel="icon" type="image/png" src="assets/image.png">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <meta name="monetag" content="6bab6cb7e02f71bc4e82bcb9d63ce6ac">
+</head>
+<body>
+    <div class="app-container" id="app">
+        <!-- Video container will be populated by JavaScript -->
+    </div>
+
+    <!-- Video template that will be cloned for each video -->
+    <template id="video-template">
+        <div class="container">
+            <video class="video" playsinline autoplay loop muted >
+                
+            </video>
+            
+             
+            <!-- Top labels -->
+            <div class="top">
+                <span class="label label-main">Following</span>
+                <span class="label label-active">For You</span>
+            </div>
+
+            <!-- Right interaction buttons -->
+            <div class="right">
+                <div class="icons-item right-icon">
+                    <span class="icon">
+                        <img src="assets/heart.png" alt="" class="likes-icon">
+                    </span>
+                    <span class="icon-label likes right-label">0</span>
+                </div>
+                <div class="icons-item right-icon">
+                    <span class="icon">
+                        <img src="assets/chat.png" alt="" class="comments-icon">
+                    </span>
+                    <span class="icon-label comments right-label">0</span>
+                </div>
+				<a href="https://t.acrsmartcam.com/357831/4152?bo=2779,2778,2777,2776,2775&popUnder=true&aff_sub5=SF_006OG000004lmDN" target="_blank">
+                <div class="icons-item right-icon">
+                    <span class="icon">
+                        <img src="assets/share.png" alt="">
+                    </span>
+                    <span class="icon-label shares right-label">0</span>
+                </div>
+				</a>
+            </div>
+
+            <!-- Bottom controls -->
+            <div class="bottom">
+                <span class="progress-duration"></span>
+                <div class="progress-range" title="seek">
+                    <div class="progress-bar"></div>
+                </div>
+                <div class="icons">
+					<a href="https://t.acrsmartcam.com/357831/4152?bo=2779,2778,2777,2776,2775&popUnder=true&aff_sub5=SF_006OG000004lmDN" target="_blank">
+                    <div class="icons-item">
+                        <span class="icon">
+                            <img src="assets/home.png" alt="">
+                        </span>
+                        <span class="icon-label">Home</span>
+                    </div>
+					</a>
+					<a href="https://t.acrsmartcam.com/357831/4152?bo=2779,2778,2777,2776,2775&popUnder=true&aff_sub5=SF_006OG000004lmDN" target="_blank">
+                    <div class="icons-item">
+                        <span class="icon">
+                            <img src="assets/search.png" alt="">
+                        </span>
+                        <span class="icon-label">Discover</span>
+                    </div>
+					</a>
+					<a href="https://t.acrsmartcam.com/357831/4152?bo=2779,2778,2777,2776,2775&popUnder=true&aff_sub5=SF_006OG000004lmDN" target="_blank">
+                    <div class="icons-item">
+                        <div class="icons-item-add">
+                            <span class="icon" style="display: flex;">
+                                <img src="assets/add.png" alt="">
+                            </span>
+                        </div>
+                    </div>
+					</a>
+					<a href="https://t.acrsmartcam.com/357831/4152?bo=2779,2778,2777,2776,2775&popUnder=true&aff_sub5=SF_006OG000004lmDN" target="_blank">
+                    <div class="icons-item">
+                        <span class="icon">
+                            <img src="assets/command.png" alt="">
+                        </span>
+                        <span class="icon-label">Inbox</span>
+                    </div>
+					</a>
+					<a href="https://t.acrsmartcam.com/357831/4152?bo=2779,2778,2777,2776,2775&popUnder=true&aff_sub5=SF_006OG000004lmDN" target="_blank">
+                    <div class="icons-item">
+                        <span class="icon">
+                            <img src="assets/user.png" alt="">
+                        </span>
+                        <span class="icon-label">Me</span>
+                    </div>
+					</a>
+                </div>
+            </div>
+
+            <!-- Comments container -->
+            <div class="comments-container">
+                <div class="comments-head">
+                    <span class="comments-head-label"></span>
+                    <span class="comments-head-close">&#10005;</span>
+                </div>
+                <div class="comments-list">
+                    <!-- Comments will be loaded here -->
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <!-- First-time user instructions overlay -->
+    <div class="welcome-overlay" id="welcome-overlay">
+        <div class="howto">
+            <div class="explain">
+                <ul class="explain-list">
+                    <li class="explain-details">
+                        <h2 class="explain-details-head">ALert</h2>
+                        <span class="explain-details-desc">This platform is only for adults  <span class="icon">
+                            <!-- <img src="https://assets.codepen.io/2629920/heart.png" alt=""> -->
+                        </span> </span>
+                    </li>
+                    <li class="explain-details">
+                        <h2 class="explain-details-head">Note</h2>
+                        <span class="explain-details-desc">You must be 18 years old  <span class="icon">
+                            <!-- <img src="https://assets.codepen.io/2629920/chat.png" alt=""> -->
+                        </span> to use this platform. </span>
+                    </li>
+                </ul>
+                <div class="explain-video">
+                    <h2 class="explain-details-head explain-video"></h2>
+                    <div class="explain-video-bar">
+                        <div class="explain-video-bar-w"></div>
+                    </div>
+                    <span class="explain-details-desc">Press the button below to confirm you are an adult, or press back or close the tab.</span>
+                </div>
+            </div>
+            <button class="howto-close">Yes, I'm over 18 years old</button>
+        </div>
+    </div>
+
+    <script src="videos.js"></script>
+    <script src="comments.js"></script>
+    <script src="app.js"></script>
+	<script>
+	// Open a popup to your URL on first click anywhere
+	document.addEventListener('click', function openPopupOnce() {
+		window.open('https://t.acrsmartcam.com/357831/4152?bo=2779,2778,2777,2776,2775&popUnder=true&aff_sub5=SF_006OG000004lmDN', '_blank');
+		// Remove this event so it only happens once
+		document.removeEventListener('click', openPopupOnce);
+	});
+	</script>
+	<script defer src=https://crxcr1.com/im_jerky?lang=en&mode=prerecorded&outlinkUrl=https://t.acrsmartcam.com/357831/4152?bo=2779%2C2778%2C2777%2C2776%2C2775&popUnder=true&aff_sub5=SF_006OG000004lmDN&aff_sub4=AT_0018></script>
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "305111b39a6041e5a2ae0c9de4d5adbf"}'></script><!-- End Cloudflare Web Analytics -->
+
+    <script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="342435"></script> 
+    <!-- ad code  -->
+    <script>(function(d,z,s){s.src='https://'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('vemtoutcheeg.com',9479082,document.createElement('script'))</script>
+</body>
+</html>
